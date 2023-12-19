@@ -2,3 +2,5 @@ This is git workshop
 We will git workshop
 workshop will git us
 daiuiwe
+NEW LINE AFTER COMMIT
+
